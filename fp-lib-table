@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "C:/Users/weiqi/Downloads/kiswitch-main/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr "assorted switches"))
-)
